@@ -3,13 +3,13 @@ import { getFirestore, collection, addDoc, serverTimestamp } from 'https://www.g
 
 // Firebase config 
 const firebaseConfig = {
-  apiKey: "AIzaSyBGPPvpADx8Qc6XIe67Q_6NN9vBcSOOIow",
-  authDomain: "webdev-project-3-24323.firebaseapp.com",
-  projectId: "webdev-project-3-24323",
-  storageBucket: "webdev-project-3-24323.firebasestorage.app",
-  messagingSenderId: "598732730010",
-  appId: "1:598732730010:web:8af419ce5e788a9ded7923",
-  measurementId: "G-Y9PHWJB7M7"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ":::",
+  measurementId: ""
 };
 
 const app = initializeApp(firebaseConfig);
