@@ -19,9 +19,3 @@ A business website developed for a client specializing in police accessories and
 - Ocampo, Luis (--)
 - Sia, Tyron (--)
 
-## Installation
-
-1. Clone the repository
-```bash
-git clone <repository-link>
-```
